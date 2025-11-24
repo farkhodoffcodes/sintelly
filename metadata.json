@@ -1,0 +1,7 @@
+{
+  "name": "Sintelly - AI Mental Health Companion",
+  "description": "A compassionate AI-powered mental health assistant featuring mood tracking, cognitive behavioral therapy (CBT) exercises, and empathetic chat capabilities using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
